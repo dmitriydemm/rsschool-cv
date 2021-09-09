@@ -1,1 +1,0 @@
-https://dmitriydemm/rsschool-cv/cv
