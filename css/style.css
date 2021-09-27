@@ -170,8 +170,7 @@ body {
     width: 33,33%;
     padding: 0 0 74px 0;
 }
-.Visiting__image {
-}
+
 .Visiting__heading {
     font-size: 32px;
     line-height: 35.33px;
@@ -350,9 +349,7 @@ body {
     display: inline-block;
     padding: 0 0 0 22px;
 }
-.Tickets__form2 {
-    
-}
+
 .Tickets__form2__title {
     font-family: "Roboto";
     font-size: 28px;
@@ -454,9 +451,7 @@ body {
     line-height: 33px;
     color: #000;
 }
-.Contacts__address {
-    
-}
+
 .Contacts__address p {
     font-family: "Roboto";
     font-style: normal;
