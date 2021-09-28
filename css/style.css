@@ -60,7 +60,7 @@ body {
     font-size: 28px;
     line-height: 50px;
     text-transform: uppercase;
-    background: url(/assets/svg/Vector.png) 0 8px no-repeat;
+    background: url(./assets/svg/Vector.png) 0 8px no-repeat;
     padding: 0 0 0 69px;
     letter-spacing: 5px;
     
@@ -491,7 +491,7 @@ body {
     font-size: 28px;
     line-height: 50px;
     text-transform: uppercase;
-    background: url(/assets/svg/Vector.png) 0 8px no-repeat;
+    background: url(./assets/svg/Vector.png) 0 8px no-repeat;
     padding: 0 0 0 69px;
     letter-spacing: 5px;
     width: calc(33%-69px);
